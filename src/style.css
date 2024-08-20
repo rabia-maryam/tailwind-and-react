@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+ul{
+    background-color: rgb(151, 245, 149);
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    gap: 20px;
+    padding: 10px;
+}
+ul Link{
+    text-decoration: None;
+    color:white;
+    font-size: 20px;
+    cursor: pointer;
+}
